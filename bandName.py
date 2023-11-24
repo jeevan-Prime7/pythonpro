@@ -10,4 +10,12 @@ print(pet_name)
 print ('your Band name will be : ' + ( city_name + " " + pet_name))
 #5. Make sure the input cursor shows on a new line:
 
-# Solution: https://replit.com/@appbrewery/band-name-generator-end
+#output :-
+Hello welcome to band name generator
+which city did you grew up in ?
+chennai
+chennai
+what is your pet name ?
+doogy
+doogy
+your Band name will be : chennai doogy
