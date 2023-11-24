@@ -7,6 +7,7 @@ total_bill = total_tip / people
 total_bill = round(total_bill, 2)
 total_bill= round(total_bill,2)
 print(f"Each person should pay ${total_bill}")
+
 #output :
 Hello, Welcome to the tip bill calculator using python
 what was the total bill ? $250
